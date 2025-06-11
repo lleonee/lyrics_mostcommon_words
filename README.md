@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # lyrics_mostcommon_words
 =======
 # LYRICS ANALYZER
