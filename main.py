@@ -309,7 +309,7 @@ def get_language_choice() -> str:
 
 def main():
     # Your Genius API token
-    GENIUS_TOKEN = "ZbnyK1sk7uBtTb_utudfWyP5WHRMlfh0dufRmf2SFpTVRaHCbHAKZOvsYq2zEQ_z"
+    GENIUS_TOKEN = "SIZIN_API_TOKENINIZ"
     
     print("🎵 Şarkı Sözü Analiz Aracı")
     print("=" * 30)
