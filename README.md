@@ -59,12 +59,16 @@ pip install -r requirements.txt
 1. Genius API için https://genius.com/api-clients adresinden token alın.  
 2. Projeyi klonlayın veya indirin.  
 3. main.py içindeki GENIUS_TOKEN değişkenine kendi tokenınızı yapıştırın.  
+<<<<<<< HEAD
 4. Terminalden çalıştırın:
 
 ```bash
 python main.py
 ```
 
+=======
+4. Terminalden çalıştırın
+>>>>>>> 772f5156c848978b94d8bd6a04b39a1024d3b230
 5. İstenen dil ve sanatçı adı bilgilerini girin.  
 6. Program otomatik olarak benzer şarkıları tespit edip kaldıracaktır.
 7. İstatistikler detaylı grafiklerle gösterilecektir.  
