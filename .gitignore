@@ -32,3 +32,6 @@ Thumbs.db
 config.py
 secrets.py
 api_keys.py
+
+# BFG jar files
+bfg-*.jar

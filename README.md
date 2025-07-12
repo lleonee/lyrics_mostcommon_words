@@ -101,3 +101,5 @@ python main.py
 ```
 
 ---
+
+> ⚠️ API güvenliği açısından commit geçmişi temizlenmiştir.
